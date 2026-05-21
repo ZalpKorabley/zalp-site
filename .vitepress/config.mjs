@@ -4,7 +4,6 @@ export default defineConfig({
   title: 'ZALP',
   description: 'ZALP Mod Metadata',
   lang: 'zh-CN',
-  outDir: 'dist',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
