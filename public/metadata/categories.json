@@ -1,0 +1,32 @@
+[
+  {
+    "children": [
+      {
+        "children": [],
+        "icon": null,
+        "exclusive": true,
+        "mods": [
+          "srcwagon"
+        ],
+        "id": "fonts",
+        "name": {
+          "en-US": "Fonts",
+          "ja-JP": "フォント",
+          "zh-CN": "字体",
+          "zh-TW": "字體"
+        }
+      }
+    ],
+    "display_order": 0,
+    "icon": null,
+    "exclusive": false,
+    "mods": [],
+    "id": "ui",
+    "name": {
+      "en-US": "UI",
+      "ja-JP": "UI",
+      "zh-CN": "界面",
+      "zh-TW": "介面"
+    }
+  }
+]

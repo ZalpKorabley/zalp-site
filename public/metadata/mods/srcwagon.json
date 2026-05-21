@@ -1,0 +1,30 @@
+{
+  "mod_id": "srcwagon",
+  "name": {
+    "en-US": "SrcWagon",
+    "zh-CN": "源力马车"
+  },
+  "description": {},
+  "icon": null,
+  "author": {
+    "name": "LocalizedKorabli",
+    "homepage": ""
+  },
+  "tags": [],
+  "latest_version": "1.0.0",
+  "game_versions": [
+    "*"
+  ],
+  "release_date": "2026-05-20T16:38:46Z",
+  "changelog": null,
+  "dependencies": [],
+  "conflicts": [],
+  "review": {
+    "status": "approved",
+    "reviewed_by": "LK",
+    "reviewed_at": "2026-05-20T16:38:59Z"
+  },
+  "history": [],
+  "created_at": "2026-05-20T16:37:28Z",
+  "updated_at": "2026-05-20T16:37:28Z"
+}
